@@ -1,4 +1,4 @@
-# PIXELWAND BACKEND ASSIGNMENT
+# PIXELWAND BACKEND 
 
 To Setup the Project Locally,
 
